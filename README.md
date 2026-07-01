@@ -21,7 +21,7 @@ This project is a clean and modern banking dashboard interface created in Figma.
 
 ## 🔗 Figma Design
 
-Paste your Figma share link here.
+https://www.figma.com/design/HdMu3yLimZ71W6xPiK9jyB/UIUX_ASSIGNMMENT?node-id=1-2&t=SNHaAVxcdc26XuhG-1
 
 ## 📷 Preview
 
